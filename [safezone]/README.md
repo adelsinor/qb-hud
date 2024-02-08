@@ -5,14 +5,17 @@ SafeZone System for QB-Core Framework
 QBus Framework
 
 ## Screenshots
-- []()
-- []() 
-- []() 
+- ![all](https://github.com/adelsinor/qb-hud/assets/116174907/3eaea403-cb0d-48da-9e14-04adc8a7c3b9)
+
+- ![icons](https://github.com/adelsinor/qb-hud/assets/116174907/e77d6bc7-1682-4aec-99a7-784e2845ae04)
+
+- ![i](https://github.com/adelsinor/qb-hud/assets/116174907/a3a18447-05f4-41e6-b388-5f6cde369f98)
+
 
 ## Features
 - Nopixel Like Nui
 - Gears System
-- safe zone icon
+- Safe Zone Icon
 
 ## Installation
 ### Manual
@@ -27,8 +30,8 @@ ensure qb-hud
 
 ## Configuration
 
-- the safe zones are already in the script 
-- if you like to add new safe zones , jest go to "resources\[safezone]\nui\safezone.lua" and add next line
+- The Safe Zones Are Already In The Script 
+- If You Like To Add New Safe Zones , Jest Go To "resources\[safezone]\nui\safezone.lua" and add next line
 ```
 safezone4 = PolyZone:Create({
 	vector2(-1565.3833007813, 1360.0148925781),
