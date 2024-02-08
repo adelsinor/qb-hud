@@ -17,7 +17,7 @@ QBus Framework
 
 ## Installation
 ### Manual
-- Download the script and `[safezone]` in resources directory.
+- Download the script and Put `[safezone]` in resources directory.
 - Add the following code to your server.cfg/resouces.cfg
 ```
 ensure qb-polyzone
