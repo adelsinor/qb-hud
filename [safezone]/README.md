@@ -51,6 +51,6 @@ safezone4:onPlayerInOut(function(isPointInside)
 end)
 
 ```
-## Discord : [Sinor System](https://discord.gg/6MhccN5T)
+## Discord : [Sinor System](https://discord.gg/pkhyk9r9cj)
 
 
