@@ -1,2 +1,2 @@
 # qb-hud
-nopixel hud qbus with safezone and gears
+nopixel hud for qbus with safezone and gears
